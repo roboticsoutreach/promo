@@ -1,0 +1,6 @@
+[submodule "art"]
+	path = art
+	url = https://github.com/s-r-o/art
+[submodule "assets/srobo"]
+	path = assets/srobo
+	url = git@github.com:srobo/style.git
